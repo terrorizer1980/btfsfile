@@ -5,10 +5,10 @@
   "main": "app.js",
   "dependencies": {
     "browserify": "^16.3.0",
-    "ipfs-http-client": "^33.1.0",
+    "ipfs-http-client": "^60.0.1",
     "jquery": "^3.4.1",
     "tinyqueue": "^2.0.3",
-    "tronweb": "^2.6.5"
+    "tronweb": "^5.3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.5.5",
